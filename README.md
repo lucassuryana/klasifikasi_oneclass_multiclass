@@ -1,0 +1,2 @@
+# klasifikasi_oneclass_multiclass
+Di dalam modul ini kita akan mempelajari salah satu bagian dari metode supervised learning, yaitu klasifikasi. Metode ini terbagi menjadi dua, yaitu klasifikasi satu kelas dan klasifikasi multi kelas. Secara sederhana klasifikasi satu kelas digunakan untuk membedakan dua buah nilai, misalnya 0 dan 1. Lebih dari itu klasifikasi multi kelas digunakan jika nilai yang perlu dibedakan lebih dari dua.
